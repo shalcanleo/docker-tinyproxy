@@ -5,6 +5,8 @@ Find it on [GitHub](https://github.com/monokal/docker-tinyproxy).
 
 Find it on [DockerHub](https://hub.docker.com/repository/docker/monokal/tinyproxy).
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/bMxj3U?referralCode=8Matb_)
+
 ### Usage
 ---
 ##### Running a new Tinyproxy container
